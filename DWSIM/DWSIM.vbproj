@@ -1389,6 +1389,9 @@
     <EmbeddedResource Include="Forms\FormLoadingSimulation.resx">
       <DependentUpon>FormLoadingSimulation.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormOptions.fr.resx">
+      <DependentUpon>FormOptions.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\FormPassword.de.resx">
       <DependentUpon>FormPassword.vb</DependentUpon>
     </EmbeddedResource>

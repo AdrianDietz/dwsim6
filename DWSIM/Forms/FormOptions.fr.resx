@@ -293,7 +293,7 @@ When the Inspector Reports feature is enabled and the Flowsheet Solver is called
     <value>97, 13</value>
   </data>
   <data name="Label7.Text" xml:space="preserve">
-    <value>Property Packages</value>
+    <value>Paquets de propriétés</value>
   </data>
   <data name="ComboBoxCompoundCopyMode.Items" xml:space="preserve">
     <value>Ne pas copier, garder l'existant</value>

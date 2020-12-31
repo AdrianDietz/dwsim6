@@ -861,6 +861,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DWSIM.resx</DependentUpon>
     </Compile>
+    <Compile Include="Languages\Tips.fr.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Tips.fr.resx</DependentUpon>
+    </Compile>
     <Compile Include="Languages\Tips.Designer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -1631,6 +1636,12 @@
       <DependentUpon>SplashScreen.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Languages\DWSIM.fr.resx" />
+    <EmbeddedResource Include="Languages\Properties.fr.resx" />
+    <EmbeddedResource Include="Languages\Tips.fr.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Tips.fr.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="Languages\Tips.de.resx" />
     <EmbeddedResource Include="Languages\Tips.en.resx" />
     <EmbeddedResource Include="Languages\Tips.es.resx">

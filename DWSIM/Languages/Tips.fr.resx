@@ -124,7 +124,7 @@
     <value>Si vous souhaitez ajouter des données expérimentales au diagramme, saisissez les données dans le tableau correspondant avant de demander le calcul.</value>
   </data>
   <data name="BENV002" xml:space="preserve">
-    <value>The experimental data "y" column is used only in the xy diagrams. To show both experimental bubble and dew points in a T/P-xy diagram, enter all mole fractions in the "x" column.</value>
+    <value>La colonne de données expérimentales "y" est utilisée uniquement dans les diagrammes xy. Pour afficher les points de bulle et de rosée expérimentaux dans un diagramme T / P-xy, entrez toutes les fractions molaires dans la colonne «x».</value>
   </data>
   <data name="BENV003" xml:space="preserve">
     <value>Les données expérimentales peuvent être copiées et collées directement à partir de Microsoft Excel.</value>
@@ -139,7 +139,7 @@
     <value>Pour obtenir de l'aide sur les scripts, regardez les exemples d'opérations unitaires de séparation membranaire et d'hydrocyclone, situés dans le dossier des exemples.</value>
   </data>
   <data name="DCOL001" xml:space="preserve">
-    <value>It is recommended that the column propertiy editing be carried out with the calculator disabled.</value>
+    <value>Il est recommandé que l'édition des propriétés de la colonne soit effectuée avec le calcul désactivée.</value>
   </data>
   <data name="DCOL002" xml:space="preserve">
     <value>Lors de la modification des connexions de la colonne, n'oubliez pas de cliquer sur n'importe quelle cellule autre que celle en cours de modification, afin que les modifications soient reconnues par DWSIM.</value>
@@ -157,10 +157,10 @@
     <value>Maintenez MAJ pendant l'initialisation du DWSIM pour réinitialiser les paramètres à leurs valeurs par défaut.</value>
   </data>
   <data name="FLSH004" xml:space="preserve">
-    <value>See some specific help for the object being added by selecting it in the flowsheet and pressing the F1 key. This also works for Utilities.</value>
+    <value>Consultez une aide spécifique pour l'objet ajouté en le sélectionnant dans le schéma du procédé et en appuyant sur la touche F1. Cela fonctionne également pour les utilités.</value>
   </data>
   <data name="FLSH005" xml:space="preserve">
-    <value>To view detailed results of the calculations in real time, enable console redirection and select a debug mode. You must restart DWSIM for the changes to take effect.</value>
+    <value>Pour afficher les résultats détaillés des calculs en temps réel, activez la redirection de console et sélectionnez un mode de débogage. Vous devez redémarrer DWSIM pour que les modifications prennent effet.</value>
   </data>
   <data name="FLSH006" xml:space="preserve">
     <value>Certains types d'objets affichent leur fenêtre d'édition principale lorsque vous double-cliquez dessus dans le schéma du procédé.</value>
@@ -181,7 +181,7 @@
     <value>Vous pouvez modifier la composition d'un flux de matière par un double clic avec le bouton gauche de la souris.</value>
   </data>
   <data name="MSTR002" xml:space="preserve">
-    <value>The material stream context menu offers some useful tools for managing its data, such as copying data from another stream, restoring original data, exporting the data to the clipboard, etc.</value>
+    <value>Le menu contextuel du flux de matière propose des outils pratiques pour gérer ses données, tels que la copie de données d'un autre flux, la restauration des données d'origine, l'exportation des données vers le presse-papiers, etc.</value>
   </data>
   <data name="MSTR003" xml:space="preserve">
     <value>Pour empêcher la fenêtre d'édition de composition de s'afficher après l'ajout d'un flux de matière, maintenez la touche MAJ enfoncée tout en la déposant dans la feuille de calcul.</value>

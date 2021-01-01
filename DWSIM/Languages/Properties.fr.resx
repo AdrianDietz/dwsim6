@@ -118,59 +118,59 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="PROP_AC_0" xml:space="preserve">
-    <value>Top Stage Pressure</value>
+    <value>fr-Pression de l'étage supérieur</value>
     <comment>1</comment>
   </data>
   <data name="PROP_AC_1" xml:space="preserve">
-    <value>Bottom Stage Pressure</value>
+    <value>fr-Pression de l'étage inférieur</value>
     <comment>1</comment>
   </data>
   <data name="PROP_AC_2" xml:space="preserve">
-    <value>Number of Stages</value>
+    <value>fr-Nombre d'étapes</value>
     <comment>0</comment>
   </data>
   <data name="PROP_CL_0" xml:space="preserve">
-    <value>Pressure Drop</value>
+    <value>fr-Perte de charge</value>
     <comment>1</comment>
   </data>
   <data name="PROP_CL_1" xml:space="preserve">
-    <value>Efficiency</value>
+    <value>fr-Efficacité</value>
     <comment>1</comment>
   </data>
   <data name="PROP_CL_2" xml:space="preserve">
-    <value>Outlet Temperature</value>
+    <value>fr-Température de sortie</value>
     <comment>1</comment>
   </data>
   <data name="PROP_CL_3" xml:space="preserve">
-    <value>Heat Removed</value>
+    <value>fr-Chaleur enlevée</value>
     <comment>1</comment>
   </data>
   <data name="PROP_CL_4" xml:space="preserve">
-    <value>Outlet Molar Vapor Fraction</value>
+    <value>fr-Fraction de vapeur molaire de sortie</value>
     <comment>0</comment>
   </data>
   <data name="PROP_CL_5" xml:space="preserve">
-    <value>Delta-T</value>
+    <value>fr-Delta-T</value>
     <comment>0</comment>
   </data>
   <data name="PROP_CO_0" xml:space="preserve">
-    <value>Pressure Increase</value>
+    <value>fr-Augmentation de pression</value>
     <comment>1</comment>
   </data>
   <data name="PROP_CO_1" xml:space="preserve">
-    <value>Adiabatic Efficiency</value>
+    <value>fr-Efficacité adiabatique</value>
     <comment>1</comment>
   </data>
   <data name="PROP_CO_2" xml:space="preserve">
-    <value>Delta-T</value>
+    <value>fr-Delta-T</value>
     <comment>0</comment>
   </data>
   <data name="PROP_CO_3" xml:space="preserve">
-    <value>Power Required</value>
+    <value>fr-Puissance requise</value>
     <comment>0</comment>
   </data>
   <data name="PROP_CO_4" xml:space="preserve">
-    <value>Pressure</value>
+    <value>fr-Pression</value>
     <comment>1</comment>
   </data>
   <data name="PROP_CP_0" xml:space="preserve">
@@ -178,46 +178,46 @@
     <comment>0</comment>
   </data>
   <data name="PROP_CR_0" xml:space="preserve">
-    <value>Pressure Drop</value>
+    <value>fr-Perte de charge</value>
     <comment>1</comment>
   </data>
   <data name="PROP_CS_0" xml:space="preserve">
-    <value>Pressure Drop</value>
+    <value>fr-Perte de charge</value>
     <comment>1</comment>
   </data>
   <data name="PROP_CS_01" xml:space="preserve">
-    <value>Pressure Drop</value>
+    <value>fr-Perte de charge</value>
     <comment>1</comment>
   </data>
   <data name="PROP_CS_1" xml:space="preserve">
-    <value>Residence time</value>
+    <value>fr-Temps de séjour</value>
   </data>
   <data name="PROP_CS_2" xml:space="preserve">
     <value>Volume</value>
   </data>
   <data name="PROP_CS_3" xml:space="preserve">
-    <value>Temperature delta</value>
+    <value>fr-Delta de température</value>
   </data>
   <data name="PROP_CS_4" xml:space="preserve">
-    <value>Heat load</value>
+    <value>fr-Charge thermique</value>
   </data>
   <data name="PROP_CS_5" xml:space="preserve">
-    <value>Outlet Temperature</value>
+    <value>fr-Température de sortie</value>
   </data>
   <data name="PROP_DC_0" xml:space="preserve">
-    <value>Condenser Pressure</value>
+    <value>fr-Pression du condenseur</value>
     <comment>1</comment>
   </data>
   <data name="PROP_DC_1" xml:space="preserve">
-    <value>Reboiler Pressure</value>
+    <value>fr-Pression du rebouilleur</value>
     <comment>1</comment>
   </data>
   <data name="PROP_DC_2" xml:space="preserve">
-    <value>Condenser Pressure Drop</value>
+    <value>fr-Perte de charge du condenseur</value>
     <comment>1</comment>
   </data>
   <data name="PROP_DC_3" xml:space="preserve">
-    <value>Reflux Ratio</value>
+    <value>fr-Taux de reflux</value>
     <comment>1</comment>
   </data>
   <data name="PROP_DC_4" xml:space="preserve">
@@ -225,39 +225,39 @@
     <comment>1</comment>
   </data>
   <data name="PROP_DC_5" xml:space="preserve">
-    <value>Condenser Duty</value>
+    <value>fr-Puissance au condenseur</value>
     <comment>0</comment>
   </data>
   <data name="PROP_DC_6" xml:space="preserve">
-    <value>Reboiler Duty</value>
+    <value>fr-Puissance au rebouilleur</value>
     <comment>0</comment>
   </data>
   <data name="PROP_DC_7" xml:space="preserve">
-    <value>Number of Stages</value>
+    <value>fr-Nombre d'étapes</value>
     <comment>0</comment>
   </data>
   <data name="PROP_EQ_0" xml:space="preserve">
-    <value>Pressure Drop</value>
+    <value>fr-Perte de charge</value>
     <comment>1</comment>
   </data>
   <data name="PROP_ER_0" xml:space="preserve">
-    <value>Maximum Iterations</value>
+    <value>fr-Itérations maximales</value>
     <comment>1</comment>
   </data>
   <data name="PROP_ER_1" xml:space="preserve">
-    <value>Power Tolerance</value>
+    <value>fr-Tolérance sur la puissance</value>
     <comment>1</comment>
   </data>
   <data name="PROP_ER_2" xml:space="preserve">
-    <value>Power Error</value>
+    <value>fr-Tolérance sur la puissance</value>
     <comment>0</comment>
   </data>
   <data name="PROP_ES_0" xml:space="preserve">
-    <value>Energy Flow</value>
+    <value>fr-Flux d'énergie</value>
     <comment>1</comment>
   </data>
   <data name="PROP_FT_0" xml:space="preserve">
-    <value>Energy Balance</value>
+    <value>fr-Bilan énergétique</value>
   </data>
   <data name="PROP_FT_1" xml:space="preserve">
     <value>Total Filter Area</value>
@@ -339,7 +339,7 @@
     <value>[Shell and Tube] Number of Tubes</value>
   </data>
   <data name="PROP_HX_16" xml:space="preserve">
-    <value>[Shell and Tube] Tube Pitch</value>
+    <value>[Shell and Tube] Arrangement des tubes</value>
   </data>
   <data name="PROP_HX_17" xml:space="preserve">
     <value>[Shell and Tube] Fouling Factor (Design)</value>
@@ -351,7 +351,7 @@
     <value>Logarithmic mean temperature difference LMTD</value>
   </data>
   <data name="PROP_HX_2" xml:space="preserve">
-    <value>Heat Load</value>
+    <value>fr-Charge thermique</value>
     <comment>0</comment>
   </data>
   <data name="PROP_HX_20" xml:space="preserve">
@@ -379,13 +379,13 @@
     <value>Minimum Temperature Difference</value>
   </data>
   <data name="PROP_HX_28" xml:space="preserve">
-    <value>Heat Loss</value>
+    <value>fr-Perte de chaleur</value>
   </data>
   <data name="PROP_HX_29" xml:space="preserve">
     <value>User-Defined LMTD Correction Factor</value>
   </data>
   <data name="PROP_HX_3" xml:space="preserve">
-    <value>Cold fluid outlet temperature</value>
+    <value>fr-Température de sortie du fluide froid</value>
   </data>
   <data name="PROP_HX_30" xml:space="preserve">
     <value>Outlet Vapor Fraction (Stream 1)</value>
@@ -880,10 +880,10 @@
     <value>Molar Internal Energy (Aqueous Phase)</value>
   </data>
   <data name="PROP_MS_227" xml:space="preserve">
-    <value>Molar Gibbs Free Energy (Aqueous Phase)</value>
+    <value>fr-Énergie libre de Gibbs molaire (phase aqueuse)</value>
   </data>
   <data name="PROP_MS_228" xml:space="preserve">
-    <value>Molar Helmholtz Free Energy (Aqueous Phase)</value>
+    <value>fr-Énergie libre de Helmholtz molaire (phase aqueuse)</value>
   </data>
   <data name="PROP_MS_229" xml:space="preserve">
     <value>Molar Internal Energy (Solid)</value>
@@ -1334,43 +1334,43 @@
     <value>Catalyst loading</value>
   </data>
   <data name="PROP_PF_5" xml:space="preserve">
-    <value>Catalyst diameter</value>
+    <value>fr-Diamètre du catalyseur</value>
   </data>
   <data name="PROP_PF_6" xml:space="preserve">
-    <value>Catalyst void fraction</value>
+    <value>fr-Fraction de vide du catalyseur</value>
   </data>
   <data name="PROP_PF_7" xml:space="preserve">
-    <value>Temperature delta</value>
+    <value>fr-Delta de température</value>
   </data>
   <data name="PROP_PF_8" xml:space="preserve">
-    <value>Heat load</value>
+    <value>fr-Charge thermique</value>
   </data>
   <data name="PROP_PS_0" xml:space="preserve">
-    <value>Pressure Drop</value>
+    <value>fr-Perte de charge</value>
     <comment>0</comment>
   </data>
   <data name="PROP_PS_1" xml:space="preserve">
-    <value>Temperature Drop</value>
+    <value>fr-Descente de température</value>
     <comment>0</comment>
   </data>
   <data name="PROP_PS_2" xml:space="preserve">
-    <value>Heat Exchanged</value>
+    <value>fr-Chaleur échangée</value>
     <comment>0</comment>
   </data>
   <data name="PROP_PS_3" xml:space="preserve">
-    <value>Outlet Pressure (Spec)</value>
+    <value>fr-Pression de sortie (Spéc)</value>
   </data>
   <data name="PROP_PS_4" xml:space="preserve">
-    <value>Outlet Temperature (Spec)</value>
+    <value>fr-Température de sortie (Spéc)</value>
   </data>
   <data name="PROP_PS_5" xml:space="preserve">
-    <value>Overall HTC (Spec)</value>
+    <value>fr-HTC global (Spéc)</value>
   </data>
   <data name="PROP_PS_6" xml:space="preserve">
-    <value>External Temperature (Spec)</value>
+    <value>fr-Température externe (Spéc)</value>
   </data>
   <data name="PROP_PS_7" xml:space="preserve">
-    <value>Ambient Temperature Gradient</value>
+    <value>fr-Gradient de température ambiante</value>
   </data>
   <data name="PROP_PS_8" xml:space="preserve">
     <value>Total Length (Straight Tubes)</value>
@@ -1379,11 +1379,11 @@
     <value>Total Elevation (Straight Tubes)</value>
   </data>
   <data name="PROP_PU_0" xml:space="preserve">
-    <value>Pressure Increase (Head)</value>
+    <value>fr-Augmentation de pression (Head)</value>
     <comment>1</comment>
   </data>
   <data name="PROP_PU_1" xml:space="preserve">
-    <value>Efficiency</value>
+    <value>fr-Efficacité</value>
     <comment>1</comment>
   </data>
   <data name="PROP_PU_2" xml:space="preserve">
@@ -1391,11 +1391,11 @@
     <comment>0</comment>
   </data>
   <data name="PROP_PU_3" xml:space="preserve">
-    <value>Power Required</value>
+    <value>fr-Puissance requise</value>
     <comment>0</comment>
   </data>
   <data name="PROP_PU_4" xml:space="preserve">
-    <value>Available NPSH</value>
+    <value>fr-NPSH disponible</value>
   </data>
   <data name="PROP_PU_5" xml:space="preserve">
     <value>Outlet Pressure</value>
@@ -1501,30 +1501,30 @@
     <comment>0</comment>
   </data>
   <data name="PROP_SC_14" xml:space="preserve">
-    <value>Actual Stages</value>
+    <value>fr-Étapes réelles</value>
   </data>
   <data name="PROP_SC_2" xml:space="preserve">
-    <value>Light Key Molar Fraction</value>
+    <value>fr-Fraction molaire du composant clé légère</value>
     <comment>1</comment>
   </data>
   <data name="PROP_SC_3" xml:space="preserve">
-    <value>Condenser Pressure</value>
+    <value>fr-Pression du condenseur</value>
     <comment>1</comment>
   </data>
   <data name="PROP_SC_4" xml:space="preserve">
-    <value>Reboiler Pressure</value>
+    <value>fr-Pression du rebouilleur</value>
     <comment>1</comment>
   </data>
   <data name="PROP_SC_5" xml:space="preserve">
-    <value>Minimun Reflux Ratio</value>
+    <value>fr-Taux de reflux minimum</value>
     <comment>0</comment>
   </data>
   <data name="PROP_SC_6" xml:space="preserve">
-    <value>Minimum Stages</value>
+    <value>fr-Nombre d'étapes minimales</value>
     <comment>0</comment>
   </data>
   <data name="PROP_SC_7" xml:space="preserve">
-    <value>Optimal Feed Stage</value>
+    <value>fr-Étape d'alimentation optimale</value>
     <comment>0</comment>
   </data>
   <data name="PROP_SC_8" xml:space="preserve">
@@ -1542,73 +1542,73 @@
     <value>Stream 2 Flow Spec</value>
   </data>
   <data name="PROP_SS_0" xml:space="preserve">
-    <value>Energy Balance</value>
+    <value>fr-Bilan énergétique</value>
     <comment>0</comment>
   </data>
   <data name="PROP_SS_1" xml:space="preserve">
-    <value>Solids Separation Efficiency</value>
+    <value>fr-Efficacité de séparation des solides</value>
   </data>
   <data name="PROP_SS_2" xml:space="preserve">
-    <value>Liquids Separation Efficiency</value>
+    <value>fr-Efficacité de séparation des liquides</value>
   </data>
   <data name="PROP_SV_0" xml:space="preserve">
-    <value>Separation Temperature (if overriden)</value>
+    <value>fr-Température de séparation (si surécrite)</value>
     <comment>1</comment>
   </data>
   <data name="PROP_SV_1" xml:space="preserve">
-    <value>Separation Pressure (if overriden)</value>
+    <value>fr-Pression de séparation (si surécrite)</value>
     <comment>1</comment>
   </data>
   <data name="PROP_TK_0" xml:space="preserve">
-    <value>Pressure Drop</value>
+    <value>fr-Perte de charge</value>
     <comment>1</comment>
   </data>
   <data name="PROP_TK_1" xml:space="preserve">
-    <value>Volume</value>
+    <value>fr-Volume</value>
   </data>
   <data name="PROP_TK_2" xml:space="preserve">
-    <value>Residence Time</value>
+    <value>fr-Temps de séjour</value>
   </data>
   <data name="PROP_TU_0" xml:space="preserve">
-    <value>Pressure Drop</value>
+    <value>fr-Perte de charge</value>
     <comment>1</comment>
   </data>
   <data name="PROP_TU_1" xml:space="preserve">
-    <value>Adiabatic Efficiency</value>
+    <value>fr-Efficacité adiabatique</value>
     <comment>1</comment>
   </data>
   <data name="PROP_TU_2" xml:space="preserve">
-    <value>Delta-T</value>
+    <value>fr-Delta-T</value>
     <comment>0</comment>
   </data>
   <data name="PROP_TU_3" xml:space="preserve">
-    <value>Power Generated</value>
+    <value>fr-Puissance générée</value>
     <comment>0</comment>
   </data>
   <data name="PROP_TU_4" xml:space="preserve">
-    <value>Pressure</value>
+    <value>fr-Pression</value>
     <comment>1</comment>
   </data>
   <data name="PROP_VA_0" xml:space="preserve">
-    <value>Calculation Mode</value>
+    <value>fr-Mode de calcul</value>
     <comment>1</comment>
   </data>
   <data name="PROP_VA_1" xml:space="preserve">
-    <value>Pressure Drop</value>
+    <value>fr-Perte de charge</value>
     <comment>1</comment>
   </data>
   <data name="PROP_VA_2" xml:space="preserve">
-    <value>Outlet Pressure</value>
+    <value>fr-Pression de sortie</value>
     <comment>1</comment>
   </data>
   <data name="PROP_VA_3" xml:space="preserve">
-    <value>Temperature Drop</value>
+    <value>fr-Chute de température</value>
     <comment>0</comment>
   </data>
   <data name="PROP_VA_4" xml:space="preserve">
     <value>Kv(max)</value>
   </data>
   <data name="PROP_VA_5" xml:space="preserve">
-    <value>Opening</value>
+    <value>fr-Ouverture</value>
   </data>
 </root>
